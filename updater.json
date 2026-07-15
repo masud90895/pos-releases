@@ -1,0 +1,15 @@
+{
+  "version": "0.1.1",
+  "notes": "Enabled printing support and added dynamic version display in sidebar.",
+  "pub_date": "2026-07-15T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "PASTE_WINDOWS_ZIP_SIGNATURE_HERE",
+      "url": "https://github.com/masud90895/pos-releases/releases/download/app-v0.1.1/Brewhaus_POS_0.1.1_x64_en-US.msi.zip"
+    },
+    "darwin-aarch64": {
+      "signature": "PASTE_MACOS_TAR_GZ_SIGNATURE_HERE",
+      "url": "https://github.com/masud90895/pos-releases/releases/download/app-v0.1.1/Brewhaus_POS_0.1.1_aarch64.app.tar.gz"
+    }
+  }
+}
