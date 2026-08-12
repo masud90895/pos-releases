@@ -47,5 +47,13 @@ Because macOS also restricts scripts downloaded from the web, follow these steps
 
 ---
 
+## 🖨️ Printer driver
+
+Setting up a receipt or label printer on a Mac needs the Xprinter driver, which is not
+bundled with macOS. The driver and the full setup steps are here:
+**[Printer driver for macOS](PRINTER-DRIVER.md)**.
+
+---
+
 ## 🔄 Automatic Updates
 The desktop app automatically checks for new updates on launch. You can also manually check for updates anytime inside the app by clicking **Version (x.x.x) • Check Update** at the bottom of the admin sidebar.
