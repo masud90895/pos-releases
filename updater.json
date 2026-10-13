@@ -1,27 +1,27 @@
 {
-  "version": "0.1.25",
+  "version": "0.1.26",
   "notes": "New release of Brewhaus POS.",
-  "pub_date": "2026-09-13T15:44:44.186Z",
+  "pub_date": "2026-10-13T09:13:13.520Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT2Jubkp2YTFnTjA0aC9XZ2tQb2haeXhmdWlQdi9OUHRMZ0gwSFJENDhDSHNJL1JjQSs0MWN1a3V6V2RDVmhzaEJQVFVNYitGMnBzei9KcklBSDZxRk1RNE15K1phYVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzEzNjEwCWZpbGU6QnJld2hhdXMgUE9TLmFwcC50YXIuZ3oKZEk0bFZCanRVNkttQTAxOWZ2R2dEa1ZrdEJhZkE5dDRzUmZleFJFdG82QVczZ1lhMmxuOTZFOEs1QXVlU3h0ZVI1VDF1R1ZSVnRYOGltZW1taHduQWc9PQo=",
-      "url": "https://github.com/masud90895/pos-releases/releases/download/app-v0.1.25/Brewhaus.POS_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT2Jubkp2YTFnTndNUjBMaENWNFRURXYvQlp0ZmhRM3ljR2EzamxZNjM5dXdGOEZvdUJTZWR1RnZMelBWNEdPK2JmRGsyUVVRbGsyckZuRHNXU25zL1FyOWx6VzFoOHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODgyMDkxCWZpbGU6QnJld2hhdXMgUE9TLmFwcC50YXIuZ3oKSHoveVAvYzlIQjRxUHZtT1YyNHZVU28zRUFyZXljQkFRTFM1aUthMTIxMGFJUzBvdWtRMTA3UnVFZzRJYXNnNmcxNWVHS2NJUkZqcjVYcEc0UzVTQmc9PQo=",
+      "url": "https://github.com/masud90895/pos-releases/releases/download/app-v0.1.26/Brewhaus.POS_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT2Jubkp2YTFnTjA0aC9XZ2tQb2haeXhmdWlQdi9OUHRMZ0gwSFJENDhDSHNJL1JjQSs0MWN1a3V6V2RDVmhzaEJQVFVNYitGMnBzei9KcklBSDZxRk1RNE15K1phYVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzEzNjEwCWZpbGU6QnJld2hhdXMgUE9TLmFwcC50YXIuZ3oKZEk0bFZCanRVNkttQTAxOWZ2R2dEa1ZrdEJhZkE5dDRzUmZleFJFdG82QVczZ1lhMmxuOTZFOEs1QXVlU3h0ZVI1VDF1R1ZSVnRYOGltZW1taHduQWc9PQo=",
-      "url": "https://github.com/masud90895/pos-releases/releases/download/app-v0.1.25/Brewhaus.POS_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT2Jubkp2YTFnTndNUjBMaENWNFRURXYvQlp0ZmhRM3ljR2EzamxZNjM5dXdGOEZvdUJTZWR1RnZMelBWNEdPK2JmRGsyUVVRbGsyckZuRHNXU25zL1FyOWx6VzFoOHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODgyMDkxCWZpbGU6QnJld2hhdXMgUE9TLmFwcC50YXIuZ3oKSHoveVAvYzlIQjRxUHZtT1YyNHZVU28zRUFyZXljQkFRTFM1aUthMTIxMGFJUzBvdWtRMTA3UnVFZzRJYXNnNmcxNWVHS2NJUkZqcjVYcEc0UzVTQmc9PQo=",
+      "url": "https://github.com/masud90895/pos-releases/releases/download/app-v0.1.26/Brewhaus.POS_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT2Jubkp2YTFnTjZ6V3FKckpuNUtpcE1OMGU4NVBoeWN5VTRObjlKUFB2eVA4elRQNVFzR0J5LzNaaTBFVEZlYmkzN0dXZENVTjJDNWNha0drMHg1dWRMZjBENUltUncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzE0Mjc5CWZpbGU6QnJld2hhdXMgUE9TXzAuMS4yNV94NjRfZW4tVVMubXNpCnlCNlc0bXlmcE80MWJ3cWdOTFRaNmJvS2ZYc3dxQnhYQjNDdUtrL2dxdXB0aWMyUkhpeTl3NVlXSnJIWnFmbEVESWRWOFJNUEp0U1o2NnFJdWxqdEFnPT0K",
-      "url": "https://github.com/masud90895/pos-releases/releases/download/app-v0.1.25/Brewhaus.POS_0.1.25_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT2Jubkp2YTFnTi83QVY0SnF4SjFQTnFCR0VCcm4zQTRKeVllZDZaQzRtZk1abzlxVHVqL0ZmbGsyYjBLOWdhMVA0RGhtUkZ6THlQOXpWUGRtbkdwc3ZmaDlkUEgvRWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODgyNzg4CWZpbGU6QnJld2hhdXMgUE9TXzAuMS4yNl94NjRfZW4tVVMubXNpCnhpR1oyMTc3S28xdUJWMGxpSzNmVzc2ZU9LRjhpY3hVVFpIYXFZbitWS3lTQ09tTGlnZzhYZ2hRTUo4ckt1M0VuVUlBOUJReFI3eHEyQnUxMlRQYUNRPT0K",
+      "url": "https://github.com/masud90895/pos-releases/releases/download/app-v0.1.26/Brewhaus.POS_0.1.26_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT2Jubkp2YTFnTjZ6V3FKckpuNUtpcE1OMGU4NVBoeWN5VTRObjlKUFB2eVA4elRQNVFzR0J5LzNaaTBFVEZlYmkzN0dXZENVTjJDNWNha0drMHg1dWRMZjBENUltUncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzE0Mjc5CWZpbGU6QnJld2hhdXMgUE9TXzAuMS4yNV94NjRfZW4tVVMubXNpCnlCNlc0bXlmcE80MWJ3cWdOTFRaNmJvS2ZYc3dxQnhYQjNDdUtrL2dxdXB0aWMyUkhpeTl3NVlXSnJIWnFmbEVESWRWOFJNUEp0U1o2NnFJdWxqdEFnPT0K",
-      "url": "https://github.com/masud90895/pos-releases/releases/download/app-v0.1.25/Brewhaus.POS_0.1.25_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT2Jubkp2YTFnTi83QVY0SnF4SjFQTnFCR0VCcm4zQTRKeVllZDZaQzRtZk1abzlxVHVqL0ZmbGsyYjBLOWdhMVA0RGhtUkZ6THlQOXpWUGRtbkdwc3ZmaDlkUEgvRWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODgyNzg4CWZpbGU6QnJld2hhdXMgUE9TXzAuMS4yNl94NjRfZW4tVVMubXNpCnhpR1oyMTc3S28xdUJWMGxpSzNmVzc2ZU9LRjhpY3hVVFpIYXFZbitWS3lTQ09tTGlnZzhYZ2hRTUo4ckt1M0VuVUlBOUJReFI3eHEyQnUxMlRQYUNRPT0K",
+      "url": "https://github.com/masud90895/pos-releases/releases/download/app-v0.1.26/Brewhaus.POS_0.1.26_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT2Jubkp2YTFnTjdqOENIOGszU2tPaDJVZnR0Yi9uTWhmOFQ2QlFIaXdJbGZvTlZxM3R0ei9VVytGQUE5QVRlY2pzc2daY1dPMXk2RnA5TTd6NGJpQmljaU1yNFNWT1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzE0Mjc5CWZpbGU6QnJld2hhdXMgUE9TXzAuMS4yNV94NjQtc2V0dXAuZXhlCjUvT0FxcEE3ejhPWEExT0diSlZoeU9oVFJkaWJMZzhKaGp6SzZSTnp6T1VUaVh2ZFUzUWp3SUZuZktCelpOZTg2QnFpbitoejFpb283eVk1dmk3L0FnPT0K",
-      "url": "https://github.com/masud90895/pos-releases/releases/download/app-v0.1.25/Brewhaus.POS_0.1.25_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT2Jubkp2YTFnTnlvWndIcUo2MGxRMUdOWll6VUFCM3pBYnBaYXIzNGNoODhtc1llNFBlOTl3cHBsY283aHZOMHNIS1NucWNrZStBcUh2ZjM5bW5BRWJrcDZVc1J3TndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODgyNzg4CWZpbGU6QnJld2hhdXMgUE9TXzAuMS4yNl94NjQtc2V0dXAuZXhlCmErSnFyODliSWM2d1ZwdjNKZXF0b2liNURlbEo3WVNNVEYxeFlKVUxkazFabU14aHF5cG5HbkZRN3ZWcU42OTBKcUZOTXMzdlkyOStjTk1NZ0xtQkFBPT0K",
+      "url": "https://github.com/masud90895/pos-releases/releases/download/app-v0.1.26/Brewhaus.POS_0.1.26_x64-setup.exe"
     }
   }
 }
